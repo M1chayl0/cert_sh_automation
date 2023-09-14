@@ -24,8 +24,8 @@ Navigate to the directory containing the script.
 Run the script with the following command:
 
 ## bash
-python cert_sh_automation.py example.com
-Replace cert_sh_automation.py with the actual name of the script, and example.com with the domain for which you want to find subdomains.
+python cert-sh_automation.py.py example.com
+Replace cert-sh_automation.py.py with the actual name of the script, and example.com with the domain for which you want to find subdomains.
 
 The script will execute and display a list of discovered subdomains associated with the specified domain.
 
